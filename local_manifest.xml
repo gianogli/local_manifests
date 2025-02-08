@@ -27,4 +27,7 @@
   <project path="vendor/xiaomi/lavender" name="android_vendor_xiaomi_lavender" remote="gianogli" />
   <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common" remote="gianogli" />
 
+  <!-- Xiaomi lavender - Kernel -->
+  <project path="kernel/xiaomi/lavender" name="android_kernel_xiaomi_lavender_4.19" remote="gianogli" />
+
 </manifest>
