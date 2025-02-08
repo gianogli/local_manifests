@@ -19,4 +19,12 @@
   <remove-project name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />
   <project path="vendor/crDroidOTA" name="android_vendor_crDroidOTA" remote="gianogli" />
 
+  <!-- Xiaomi lavender - Device -->
+  <project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender" remote="gianogli" />
+  <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="gianogli" />
+
+  <!-- Xiaomi lavender - Vendor -->
+  <project path="vendor/xiaomi/lavender" name="android_vendor_xiaomi_lavender" remote="gianogli" />
+  <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common" remote="gianogli" />
+
 </manifest>
