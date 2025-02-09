@@ -73,4 +73,7 @@
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8550/Android.mk" />
   </project>
 
+  <!-- Xiaomi lavender - Extra -->
+  <project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="crdroid" />
+
 </manifest>
