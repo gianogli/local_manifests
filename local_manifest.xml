@@ -145,4 +145,7 @@
   <!-- Xiaomi lavender - Extra -->
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="gianogli" />
 
+  <!-- Extra Packages -->
+  <project path="vendor/motorola-dolby" name="vendor_motorola-dolby" remote="gianogli" />
+
 </manifest>
