@@ -7,6 +7,9 @@
     revision="cr11_lavender" />
 
   <!-- Changed crDroid Projects -->
+  <remove-project name="crdroidandroid/android_frameworks_base" remote="crdroid" />
+  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="gianogli" />
+
   <remove-project name="crdroidandroid/android_vendor_crdroid" remote="crdroid" />
   <project path="vendor/lineage" name="android_vendor_crdroid" remote="gianogli" />
 
