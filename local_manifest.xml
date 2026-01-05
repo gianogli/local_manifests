@@ -13,6 +13,9 @@
   <remove-project name="crdroidandroid/android_vendor_crdroid" remote="crdroid" />
   <project path="vendor/lineage" name="android_vendor_crdroid" remote="gianogli" />
 
+  <remove-project name="crdroidandroid/android_packages_apps_Settings" remote="crdroid" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="gianogli" />
+
   <remove-project name="crdroidandroid/android_packages_apps_crDroidSettings" remote="crdroid" />
   <project path="packages/apps/crDroidSettings" name="android_packages_apps_crDroidSettings" remote="gianogli" />
 
