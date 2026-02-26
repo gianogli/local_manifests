@@ -146,9 +146,6 @@
   <remove-project name="LineageOS/android_hardware_qcom_display" groups="qcom" />
   <project path="hardware/qcom-caf/sdm660/display" name="android_hardware_qcom-caf_display" remote="gianogli" />
 
-  <remove-project path="hardware/qcom/camera" name="LineageOS/android_hardware_qcom_camera" groups="qcom,qcom_camera,pdk-qcom" />
-  <project path="hardware/qcom/camera" name="android_hardware_qcom-caf_camera" remote="gianogli" />
-
   <!-- Xiaomi lavender - Extra -->
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="gianogli" />
 
